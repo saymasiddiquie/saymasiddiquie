@@ -102,6 +102,7 @@ I am a dedicated Computer Science student specializing in AI & ML, with strong s
 
 ![Sayma's GitHub stats](https://github-readme-stats.vercel.app/api?username=saymasiddiquie&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saymasiddiquie&layout=compact&theme=radical)
 ---
 
 ## 🌐 Connect With Me
